@@ -20,7 +20,7 @@
   * [Ruby Developer](https://gist.github.com/KELiON/949731e077656ce036fa6114e7b47d2d)
   * [Frontend / React Native Developer](https://gist.github.com/KELiON/847543083fa37585dd06be197a405ec7)
 * [Aviasales](https://aviasales.ru)
-  * [Front End](https://github.com/KosyanMedia/test-tasks/tree/master/aviasales_frontend)
+  * [Front End](https://github.com/KosyanMedia/test-tasks/tree/master/aviasales_frontend) - Done
 * [Avito](https://www.avito.ru)
   * [Frontend Стажёр](https://github.com/avito-tech/safedeal-frontend-trainee)
   * [Frontend Стажёр](https://github.com/avito-tech/verticals/blob/master/trainee/frontend.md)
